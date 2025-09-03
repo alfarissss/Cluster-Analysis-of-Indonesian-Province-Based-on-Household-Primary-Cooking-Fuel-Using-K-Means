@@ -5,8 +5,6 @@ This repository contains a Jupyter Notebook implementing a **cluster analysis** 
 The project is inspired by the research paper:
 
 **S. N. Huda (2017).** *Cluster Analysis of Indonesian Province Based on Household Primary Cooking Fuel Using K-Means.* IOP Conf. Ser.: Mater. Sci. Eng. 185 012016.  
-[Link to paper if available]
-
 ---
 
 ## Project Description
